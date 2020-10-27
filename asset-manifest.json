@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nikki_rees_portfolio/static/css/main.181b4f1d.chunk.css",
+    "main.js": "/nikki_rees_portfolio/static/js/main.f4aae095.chunk.js",
+    "main.js.map": "/nikki_rees_portfolio/static/js/main.f4aae095.chunk.js.map",
+    "runtime-main.js": "/nikki_rees_portfolio/static/js/runtime-main.ca1b94f9.js",
+    "runtime-main.js.map": "/nikki_rees_portfolio/static/js/runtime-main.ca1b94f9.js.map",
+    "static/js/2.50b2ca01.chunk.js": "/nikki_rees_portfolio/static/js/2.50b2ca01.chunk.js",
+    "static/js/2.50b2ca01.chunk.js.map": "/nikki_rees_portfolio/static/js/2.50b2ca01.chunk.js.map",
+    "static/js/3.3b49c6d0.chunk.js": "/nikki_rees_portfolio/static/js/3.3b49c6d0.chunk.js",
+    "static/js/3.3b49c6d0.chunk.js.map": "/nikki_rees_portfolio/static/js/3.3b49c6d0.chunk.js.map",
+    "index.html": "/nikki_rees_portfolio/index.html",
+    "static/css/main.181b4f1d.chunk.css.map": "/nikki_rees_portfolio/static/css/main.181b4f1d.chunk.css.map",
+    "static/js/2.50b2ca01.chunk.js.LICENSE.txt": "/nikki_rees_portfolio/static/js/2.50b2ca01.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca1b94f9.js",
+    "static/js/2.50b2ca01.chunk.js",
+    "static/css/main.181b4f1d.chunk.css",
+    "static/js/main.f4aae095.chunk.js"
+  ]
+}
