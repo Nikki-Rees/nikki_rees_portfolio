@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "MyMVP",
+        "image": "../assets/images/mymvp.png",
+        "description": "Using 3rd party APIs, our end-user to search their favourite NBA player to see the latest season stats as well as a career highlights video and display GIFs.",
+        "github": "https://github.com/Nikki-Rees/MyMVP",
+        "view": "https://nikki-rees.github.io/MyMVP/"
+    },
+    {
+        "id": 2,
+        "name": "Weather Dashboard",
+        "image": "../assets/images/weatherdashboard.png",
+        "description": "A weather dashboard that allows the user to search cities to see the current weather and a 5 day forecast. This application will run in the browser and feature dyna",
+        "github": "https://github.com/Nikki-Rees/weather_dashboard/",
+        "view": "https://nikki-rees.github.io/weather_dashboard/"
+    },
+    {
+        "id": 3,
+        "name": "Tiny Steps AU",
+        "image": "../assets/images/tinystepsimg.png",
+        "description": "An app which helps users develop a healthy habit by maintaining motivation and sending reminders. Select a pre-defined healthy habit or enter your own personal habit you want to develop and check-in when the habit is completed.",
+        "github": "https://github.com/Nikki-Rees/tinystepsau",
+        "view": "https://tinystepsau.herokuapp.com/"
+    },
+    {
+        "id": 4,
+        "name": "Note taker app",
+        "image": "../assets/images/notetaker.png",
+        "description": "An app which allows the user to create, save and delete notes.",
+        "github": "https://github.com/Nikki-Rees/notetakerapp",
+        "view": "https://secret-basin-76195.herokuapp.com/notes"
+    },
+    {
+        "id": 5,
+        "name": "Responsive day planner",
+        "image": "../assets/images/planner.png",
+        "description": "This was an assignment to create a simple calendar application that allows the user to save events for each hour of the day, with dynamic colour coding dependant on the time.",
+        "github": "https://github.com/Nikki-Rees/planner/",
+        "view": "https://nikki-rees.github.io/planner/"
+    },
+    {
+        "id": 6,
+        "name": "Employee Manager CLI",
+        "image": "public/assets/images/CLIapp.png",
+        "description": "An app which allows the user to search, view, update and delete employees.",
+        "github": "https://github.com/Nikki-Rees/employeemanager",
+        "view": "https://drive.google.com/file/d/1hUU4k8isVT59pv1Qlb1dumb1UipCM95b/view"
+    }
+]
