@@ -1,0 +1,123 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Karla', sans-serif;
+}
+
+body {
+ font-size: 16px;
+
+}
+
+nav {
+    margin: auto;
+    align-content: stretch;
+    overflow: hidden;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+    background-color: #606C38;
+
+}
+nav .bg-light {
+    background-color: #d7cec7;
+}
+
+nav .line{
+    border-width: 2px;
+    background-color: #606C38;
+    
+}
+/* .navbar-expand{-sm|-md|-lg|-xl} */
+
+.container {
+    margin: 5px; 
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #606C38;
+}
+
+#contact-details {
+font-family: 'Karla', sans-serif;
+}
+
+h1{
+    color: #221310;
+}
+p{
+    text-align: left;
+}
+
+a {
+    font-family: 'Karla', sans-serif;
+    
+}
+
+main,
+section {
+    padding: 20px;
+    width: 100%;
+    align-content: top;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #606C38;
+    border-color: #606C38;
+}
+
+.img-fluid{
+    max-width: 100%;
+}
+.footer {
+    position: fixed;
+    margin-top: auto;
+    padding: 10px;
+    left: 0;
+    bottom: 0;
+    background-color: #bfbdbd;
+    width: 100%;
+    color: #ffffff;
+    text-align: stretch;
+}
+
+.footer-nav{
+    color: rgba(236, 218, 218, 0.933);
+    padding: 20px;
+    margin-top: 10px;
+    box-align: center;
+}
+
+@media screen and (max-width: 800px) {
+.card {
+    align-self: center;
+}
+
+@media screen and (max-width: 768px) {
+    
+
+    img {
+        width: 100%;
+        align-self: center;
+    }
+    .card {
+        width:95%;
+        align-content: center;
+    }
+    .card-title .card-text {
+        font-size: 16px;
+}
+
+@media screen and (max-width: 640px) {
+img {
+    width: 100%;
+    align-self: center;
+}
+.card {
+    width:95%;
+    align-content: center;
+}
+.card-title
+.card-text {
+    font-size: 12px;
+}
+}
+}}
