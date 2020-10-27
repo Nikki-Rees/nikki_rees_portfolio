@@ -1,6 +1,4 @@
 import React, { Component } from "react";
-import Nav from "../components/Nav";
-import Footer from "../components/Footer";
 import ProjectCard from "../components/ProjectCard";
 import Wrapper from "../components/Wrapper";
 import Title from "../components/Title";
@@ -23,7 +21,7 @@ class Projects extends Component {
     render() {
         return (
             <Wrapper>
-                <Nav />
+
 
                 <Title>Projects List</Title>
                 {this.state.projects.map(project => (
@@ -39,7 +37,7 @@ class Projects extends Component {
                     />
                 ))}
 
-                <Footer />
+
             </Wrapper>
         );
     }

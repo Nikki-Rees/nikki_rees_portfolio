@@ -15,7 +15,6 @@ nav {
     position: fixed; /* Set the navbar to fixed position */
     top: 0; /* Position the navbar at the top of the page */
     width: 100%; /* Full width */
-    background-color: #606C38;
 
 }
 nav .bg-light {
@@ -24,8 +23,7 @@ nav .bg-light {
 
 nav .line{
     border-width: 2px;
-    background-color: #606C38;
-    
+    border-color: #b56357;
 }
 /* .navbar-expand{-sm|-md|-lg|-xl} */
 
@@ -33,7 +31,6 @@ nav .line{
     margin: 5px; 
     margin-top: 10px;
     padding: 10px;
-    background-color: #606C38;
 }
 
 #contact-details {
@@ -45,6 +42,8 @@ h1{
 }
 p{
     text-align: left;
+    padding: 20px;
+
 }
 
 a {
@@ -73,9 +72,9 @@ section {
     padding: 10px;
     left: 0;
     bottom: 0;
-    background-color: #bfbdbd;
+    background-color: #606C38;
     width: 100%;
-    color: #ffffff;
+    color: rgba(221, 221, 221, 0.844);
     text-align: stretch;
 }
 

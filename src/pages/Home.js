@@ -23,7 +23,7 @@ export function Home() {
                 <Col size="md-9 sm-12">
                     <div class="d-flex justify-content-end">
 
-                        <h3>About</h3>
+
                         <p>With over 15 years of project and stakeholder management in digital, consulting and financial industry. I love to problem solve and fixing things. I enjoy thinking creatively to develop practical solutions that deliver to a brief with the end-user in focus.</p>
 
 
@@ -31,8 +31,9 @@ export function Home() {
                 </Col>
                 <Col size="md-3 sm-12">
 
-                    <h3>Contact</h3>
                     <div className="contact-details">
+                        <h3>Contact</h3>
+
                         <ul>
                             <li><i class="fa fa-file-pdf-o" aria-hidden="true"> <a
                                 href="./Assets/NikkiReesResume2020.pdf">
